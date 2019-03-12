@@ -1,0 +1,12 @@
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\bin\Debug\Yazlab3.exe.config
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\bin\Debug\Yazlab3.exe
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\bin\Debug\Yazlab3.pdb
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.Properties.Resources.resources
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.csproj.GenerateResource.cache
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.exe
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.pdb
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.Arayuz.resources
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.gosterme.resources
+C:\Users\ABRA\source\repos\Yazlab3\Yazlab3\obj\Debug\Yazlab3.dosya.resources
